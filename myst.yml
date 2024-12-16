@@ -6,8 +6,8 @@ project:
   jupyter: true
   # description:
   # keywords: []
-  # authors: Brian Wright
-  # github:
+  authors: Brian Wright
+  github: https://github.com/NovaVolunteer/MLBook
   toc:
     - file: README.md 
     - title: Part I Experimental Thinking
