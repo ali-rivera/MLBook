@@ -1,0 +1,25 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 1db4cc40-6b7d-46b8-a77b-bb24e4a7ceb0
+  title: Machine Learning I Book
+  jupyter: true
+  # description:
+  # keywords: []
+  # authors: Brian Wright
+  # github:
+  toc:
+    - file: README.md 
+    - title: Part I Experimental Thinking
+      children:
+        - file: Exp_Thinking.ipynb
+        - file: test_jupytext.py 
+    - title: Part II Data Preparation 
+      children:
+        - file: 
+        - file:     
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
