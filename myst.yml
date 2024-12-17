@@ -9,15 +9,23 @@ project:
   authors: Brian Wright
   github: https://github.com/NovaVolunteer/MLBook
   toc:
-    - file: README.md 
-    - title: Part I Experimental Thinking
+    - file: README.md
+    - title: DS Lifecycle + What is Machine Learning
+      children:
+        - file: dslifecycle.ipynb
+        - file: whatisml.ipynb 
+    - title: Phase I Experimental Thinking and Idea Development
       children:
         - file: Exp_Thinking.ipynb
-        - file: test_jupytext.py 
-    - title: Part II Data Preparation 
+        - file:  
+    - title: Part II Data Preparation and Problem Exploration
+      children:
+        - file: Part_II/02_Lecture_Python.ipynb 
+        - file: Part_II/Class_II_Python.ipynb
+    - title: Part III Solution {Model} Development
       children:
         - file: 
-        - file:     
+        - file:    
 site:
   template: book-theme
   # options:
