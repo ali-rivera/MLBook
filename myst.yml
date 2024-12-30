@@ -28,5 +28,5 @@ project:
         - file:    
 site:
   template: book-theme
-   options:
-      logo: logo.png
+  options:
+    logo: logo.png
