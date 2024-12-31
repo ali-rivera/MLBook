@@ -3,21 +3,22 @@ version: 1
 project:
   id: 1db4cc40-6b7d-46b8-a77b-bb24e4a7ceb0
   title: Machine Learning I Book
-  jupyter: true
+  jupyter: 
+    lite: true
   # description:
   # keywords: []
   authors: Brian Wright
   github: https://github.com/NovaVolunteer/MLBook
   toc:
     - file: README.md
-    - title: DS Lifecycle + What is Machine Learning
+    - title: What is Machine Learning + Data Science Lifecycle
       children:
+        - file: whatisml.ipynb
         - file: dslifecycle.ipynb
-        - file: whatisml.ipynb 
-    - title: Phase I Experimental Thinking and Idea Development
+    - title: Getting Started with VS Code and Python
       children:
-        - file: Exp_Thinking.ipynb
-        - file:  
+        - file: env_setup.ipynb
+        - file: class_materials.ipynb
     - title: Part II Data Preparation and Problem Exploration
       children:
         - file: Part_II/02_Lecture_Python.ipynb 
@@ -29,4 +30,4 @@ project:
 site:
   template: book-theme
   options:
-    logo: logo.png
+    logo: Sloth_Picture .png
