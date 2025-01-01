@@ -12,5 +12,6 @@ RUN if [ -f "/tmp/conda-tmp/environment.yml" ]; then umask 0002 && /opt/conda/bi
 #     && pipx reinstall-all
 
 # [Optional] Uncomment this section to install additional OS packages.
-# RUN apt-get update && export DEBIAN_FRONTEND=noninteractive \
-#     && apt-get -y install --no-install-recommends <your-package-list-here>
+#RUN apt-get update && export DEBIAN_FRONTEND=noninteractive \
+     #&& apt-get -y install --no-install-recommends "requirements.txt"
+

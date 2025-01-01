@@ -14,8 +14,8 @@
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	// "postCreateCommand": "python --version",
-
+	//"postCreateCommand": "pip install -r ../ML1/requirements.txt"
+	
 	// Configure tool-specific properties.
 	// "customizations": {},
 
