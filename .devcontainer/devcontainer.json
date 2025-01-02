@@ -31,8 +31,11 @@
 		}
 	},
 
-	 "postCreateCommand": "git config --global user.name 'NovaVolunteer' && git config --global user.email 'bwright.wright6@gmail.com'"
+	 "postCreateCommand": "git config --global user.name 'NovaVolunteer' && git config --global user.email 'bwright.wright6@gmail.com'",
+	 "postCreateCommand": "conda env update -n base --file environment.yaml"
+
 }
+
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
@@ -41,7 +44,7 @@
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	//"postCreateCommand": "pip install -r ../ML1/requirements.txt"
+	//"postCreateCommand": "Your command",
 	
 	// Configure tool-specific properties.
 	// "customizations": {},
