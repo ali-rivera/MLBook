@@ -31,6 +31,9 @@
 		}
 	},
 
+	 "postCreateCommand": "git config --global user.name 'NovaVolunteer' && git config --global user.email 'bwright.wright6@gmail.com'"
+}
+
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
 
@@ -45,6 +48,3 @@
 
 	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
 	// "remoteUser": "root"
-
- "postCreateCommand": "pip install -r requirements.txt"
-}
