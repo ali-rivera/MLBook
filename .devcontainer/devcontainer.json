@@ -5,7 +5,31 @@
 	"build": { 
 		"context": "..",
 		"dockerfile": "Dockerfile"
-	}
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"njpwerner.autodocstring",
+				"github.vscode-github-actions",
+				"GitHub.copilot",
+				"GitHub.copilot-chat",
+				"GitHub.vscode-pull-request-github",
+				"VisualStudioExptTeam.vscodeintellicode",
+				"ms-toolsai.jupyter",
+				"ms-toolsai.jupyter-renderers",
+				"congyiwu.vscode-jupytext",
+				"magicstack.MagicPython",
+				"colinfang.my-nbpreviewer",
+				"ms-python.vscode-pylance",
+				"ms-python.python",
+				"donjayamanne.python-extension-pack",
+				"ms-toolsai.jupyter-keymap",
+				"KevinRose.vsc-python-indent",
+				"batisteo.vscode-django",
+				"ms-azuretools.vscode-docker"
+			]
+		}
+	},
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
@@ -21,4 +45,6 @@
 
 	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
 	// "remoteUser": "root"
+
+ "postCreateCommand": "pip install -r requirements.txt"
 }

@@ -17,7 +17,6 @@ project:
         - file: dslifecycle.ipynb
     - title: Getting Started with VS Code and Python
       children:
-        - file: env_setup.ipynb
         - file: class_materials.ipynb
     - title: Part II Data Preparation and Problem Exploration
       children:
