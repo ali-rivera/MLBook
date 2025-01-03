@@ -26,7 +26,8 @@
 				"ms-toolsai.jupyter-keymap",
 				"KevinRose.vsc-python-indent",
 				"batisteo.vscode-django",
-				"ms-azuretools.vscode-docker"
+				"ms-azuretools.vscode-docker",
+				"streetsidesoftware.code-spell-checker"
 			]
 		}
 	},
