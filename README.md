@@ -1,4 +1,4 @@
-# Foundations of Machine Learning Book
+# Foundations of Machine Learning DS 3021 Syllabus
 
 ## Your Foundations of Machine Learning Tour Guides: 
 
@@ -91,6 +91,7 @@ The books below are essentially a starter Machine Learning Library. I will use a
 * E. [Machine Learning Engineering](https://leanpub.com/MLE) Low Cost
 * F. [Python Style Guide](https://peps.python.org/pep-0008/)
 * G. [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/prereqs-and-prework)
+* H. [Jen Huck!](https://guides.lib.virginia.edu/datascience) Jen is the Data Science Librarian and a amazing resource for the class!
 
 
 

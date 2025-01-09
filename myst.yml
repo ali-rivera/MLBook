@@ -2,7 +2,7 @@
 version: 1
 project:
   id: 1db4cc40-6b7d-46b8-a77b-bb24e4a7ceb0
-  title: Machine Learning I Book
+  title: Foundations of Machine Learning I Book
   jupyter: 
     lite: true
   # description:
@@ -10,7 +10,10 @@ project:
   authors: Brian Wright
   github: https://github.com/NovaVolunteer/MLBook
   toc:
-    - file: README.md
+    - file: title.md
+    - title: Syllabus 
+      children:
+        - file: README.md
     - title: What is Machine Learning + Data Science Lifecycle
       children:
         - file: whatisml.ipynb
