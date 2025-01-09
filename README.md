@@ -24,10 +24,10 @@ Level: Undergraduate
 Credit Type: Grade (A-F)
 
 <br>
-
+https://youtu.be/5M1SueMMiQU
 ## Introduction Video
 
-[![Hello All!](https://img.youtube.com/vi/D8KbNoFfb7A/0.jpg)](https://www.youtube.com/watch?v=D8KbNoFfb7A)
+[![Hello All!](https://img.youtube.com/vi/5M1SueMMiQU/0.jpg)](https://www.youtube.com/watch?v=5M1SueMMiQU)
 
 
 ## A Little Bit About the Course
