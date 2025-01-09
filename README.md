@@ -1,17 +1,24 @@
-# Foundations of Machine Learning DS 3021 Syllabus
+---
+title: DS 3023 Foundations of Data Science Syllabus
+date: 01/09/2025
+export: pdf
+---
+
+A digital version of syllabus:  [https://novavolunteer.github.io/MLBook/readme](https://novavolunteer.github.io/MLBook/readme) 
 
 ## Your Foundations of Machine Learning Tour Guides: 
 
 * Brian Wright, Ph.D., Office: TBD
 * Email: brianwright@virginia.edu
-* TA: 
+* TA: Macro Chavez
+* Email: sgw3fy@virginia.edu
 * Class Location: School of Data Science Building 
 
 Brian's Office Hours: In person in my office SDS Building 434 or Virtual on Discord - Monday 1-3pm 
 
 TA office hours: TBD 
 
-Course Materials: [Foundations of Machine Learning Repo](https://github.com/UVADS/DS-3001/3021)
+Course Materials: [**Foundations of Machine Learning Repo**](https://github.com/UVADS/DS-3001/3021)
 
 Subject Area and Catalog Number: Data Science, DS 3021
 
@@ -61,11 +68,25 @@ The course will move rather quickly and can be demanding at times. However, if w
 On any given week, the course will require reviewing short video lectures and completing readings prior to coming to class.  These lectures and readings will then be implemented in the lab portion of the course which will be conducted during the scheduled class period.  Lab sessions will include a variety of activities but mostly be centered on team-oriented ML assignments.  .
 
     
-    Quizzes (15%) – Short occasional (8ish) quizzes, will be auto-graded, so you will get instant feedback. In order to ensure we are all meeting the learning objectives from week to week. You will be allowed as many chances to complete the quiz as needed, they will be open note, but students are to work independently. 
+    Quizzes (15%) – Short occasional (8ish) quizzes, will be auto-graded, 
+    so you will get instant feedback. In order to ensure we are all meeting 
+    the learning objectives from week to week. You will be allowed as many 
+    chances to complete the quiz as needed, they will be open note, 
+    but students are to work independently. 
     
-    Labs (60%) – On most weeks we will have in-class labs/assignments. These are designed to allow you to practice the skills being presented in class. While they should be submitted individually you are encouraged to work with your peers as much of the best learning can come from your each other. You'll create stand-alone Juypter notebooks to be evaluated by the course TA. 
+    Labs (60%) – On most weeks we will have in-class labs/assignments. These 
+    are designed to allow you to practice the skills being presented in class. 
+    While they should be submitted individually you are encouraged to work with 
+    your peers as much of the best learning can come from your each other. 
+    You'll create stand-alone Juypter notebooks to be evaluated by the course TA. 
    
-    Final projects (25%) – The course will culminate in a final project that will involve working with a dataset of your choice, giving a presentation, submitting well-annotated code to include summary information in report form. This is an open-ended project designed to allow groups to choose a topic of interest from the semester to explore deeper and share with the class. Students will be expected to build the project using github and develop a free standing website built with one of the tools presented in class (GitHub.io or MYST Book)
+    Final projects (25%) – The course will culminate in a final project that 
+    will involve working with a dataset of your choice, giving a presentation, 
+    submitting well-annotated code to include summary information in report form. 
+    This is an open-ended project designed to allow groups to choose a topic of 
+    interest from the semester to explore deeper and share with the class. Students 
+    will be expected to build the project using github and develop a free standing 
+    website built with one of the tools presented in class (GitHub.io or MYST Book)
     
 ## Tech Stack
 
@@ -74,24 +95,25 @@ On any given week, the course will require reviewing short video lectures and co
     Canvas - Submission of assignments and class-wide communications
     Discord - Low latency comms for groups and class.
 
-**[Discord Invite Click](tbd)**
+[**Discord Invite Click..coming soon**](tbd) - Use this for team communications, quick updates
+and helpful tips throughout the semester. It is a nice way to build community. :) 
 
-**[Overview for Install Miniconda and VS Code](https://medium.com/the-researchers-guide/how-to-set-up-python-and-visual-studio-code-ide-for-data-science-161c61f76fe3)**
+[**Overview for Install Miniconda and VS Code**](https://medium.com/the-researchers-guide/how-to-set-up-python-and-visual-studio-code-ide-for-data-science-161c61f76fe3)
 
 ## Materials That Will Aid in Your Learning: 
 
-The books below are essentially a starter Machine Learning Library. I will use all of these references at difference points during the class and most are low cost options. Unfortunately, the main book for the class Python Machine Learning with Pytorch and Scikit-Learn is not free (if you need help paying let me know and the School/I will take of it). Everything else is either free or can be found for around 15 dollars. There's also references to Python style guides and tutorials. 
+The materials below are essentially a starter Machine Learning Library. I will use all of these references at difference points during the class and most are low cost options. Unfortunately, the main book for the class Python Machine Learning with Pytorch and Scikit-Learn is not free (if you need help paying let me know and the School/I will take of it). Everything else is either free or can be found for around 15 dollars. There's also references to Python style guides and tutorials. 
 
 
 
-* A. [Foundations of ML: Supplemental Book](https://novavolunteer.github.io/MLBook/)
-* B. [Evaluating Machine Learning Models – O’Reilly Digital via UVA Library](https://www.oreilly.com/library/view/temporary-access/)<br>
-* C. [Python Machine Learning with PyTorch and Scikit-Learn, 4th Edition](https://sebastianraschka.com/blog/2022/ml-pytorch-book.html)
-* D. [Mathematics for Machine Learning](https://mml-book.github.io/) Free PDF Version
-* E. [Machine Learning Engineering](https://leanpub.com/MLE) Low Cost
-* F. [Python Style Guide](https://peps.python.org/pep-0008/)
-* G. [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/prereqs-and-prework)
-* H. [Jen Huck!](https://guides.lib.virginia.edu/datascience) Jen is the Data Science Librarian and a amazing resource for the class!
+* A. [**Foundations of ML: Supplemental Book**](https://novavolunteer.github.io/MLBook/)
+* B. [**Evaluating Machine Learning Models – O’Reilly Digital via UVA Library**](https://www.oreilly.com/library/view/temporary-access/)<br>
+* C. [**Python Machine Learning with PyTorch and Scikit-Learn, 4th Edition**](https://sebastianraschka.com/blog/2022/ml-pytorch-book.html)
+* D. [**Mathematics for Machine Learning**](https://mml-book.github.io/) Free PDF Version
+* E. [**Machine Learning Engineering**](https://leanpub.com/MLE) Low Cost
+* F. [**Python Style Guide**](https://peps.python.org/pep-0008/)
+* G. [**Machine Learning Crash Course**](https://developers.google.com/machine-learning/crash-course/prereqs-and-prework)
+* H. [**Jen Huck!..a human resource**](https://guides.lib.virginia.edu/datascience) Jen is the Data Science Librarian and a amazing resource for the class!
 
 
 
@@ -110,7 +132,7 @@ The books below are essentially a starter Machine Learning Library. I will use a
 | Week 7  | Introduction to ML Concepts IV	| kNN + Evaluation	| [Evaluation Lab](https://github.com/UVADS/DS-3001/tree/main/07_ML_Eval_Metrics) | All of B. and G.- Chapter 11 	|
 | Week 8  | Supervised Classification |  Logistic Regression |	|   	|
 | Week 9  | Sampling Methods and How Bootstrap + Cross-Validation solves all the problems| | |
-| Week 10  | Nature's Perfect ML analogy: Trees Part I	|  Classification: <br> Decisions Trees + Calibration 	| [ Decision Trees](https://github.com/UVADS/DS-3001/tree/main/08_DT_Class)	| TBD and G. Chapter 14.1-14.3 |
+| Week 10  | Nature's Perfect ML analogy: Trees Part I	|  Classification: <br> Decisions Trees + Calibration 	| [Decision Trees](https://github.com/UVADS/DS-3001/tree/main/08_DT_Class)	| TBD and G. Chapter 14.1-14.3 |
 | Week 11  | Nature's Perfect ML analogy: Trees Part II  	| Regression: <br> Decision Trees  	| [Predicting Income for Big Brother]	| F. Chapter 5 and G. Chapter 8 |
 | Week 12 |  Unsupervised: kMeans | Let's gather together, but separately|	NBA Scout for the worst team in the league| 	|
 | Week 13 | Unsupervised: PCA | Feature Engineering | | TBD	|
