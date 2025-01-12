@@ -14,13 +14,13 @@ project:
     - title: Syllabus 
       children:
         - file: README.md
+    - title: Getting Started with VS Code and Python
+      children:
+        - file: class_materials.ipynb    
     - title: What is Machine Learning + Data Science Lifecycle
       children:
         - file: whatisml.ipynb
         - file: dslifecycle.ipynb
-    - title: Getting Started with VS Code and Python
-      children:
-        - file: class_materials.ipynb
     - title: Part II Data Preparation and Problem Exploration
       children:
         - file: Part_II/02_Lecture_Python.ipynb 
