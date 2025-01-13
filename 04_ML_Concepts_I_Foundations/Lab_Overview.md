@@ -17,8 +17,6 @@ Read through the case study and then discuss the problem as a group then address
 
 Work through the following Data to Concept and Learning Difficulty questions presented from this weeks lecture:
   * How difficult is the data to gather?
-  * How well does the data match your problem?
-  * Has the data been used in the past with success?
   * Is the target difficult to measure or break into smaller parts?
   * What level of uncertainty (risk) are you willing to accept? 
 
@@ -37,6 +35,5 @@ and wants to start building a "MVP" of the recommender system in order be able t
 garner support for further data gathering efforts. The data includes survey responses
 on a likert (1-5) scale cover 60ish questions related to the characteristics of the schools, technology proficiency and features covering past successes or failures as it relates to the implementation of mathematical software. The data has 1500 responses across 30 districts with no one district have more that 100 responses. 
 
-The goal is to be able to go to new schools/districts have them complete the survey and 
-then provide recommendations as to which mathematical software would work and those that might not be good choices. 
+The goal is to be able to go to new schools/districts have them complete the survey and then provide recommendations as to which mathematical software would work and those that might not be good choices. 
 
