@@ -1,4 +1,7 @@
-## Day Two Stuff
+---
+title: Day Two Stuff
+---
+
 
 Today we are going to work through getting all our environments setup and do some quick tasks. 
 
