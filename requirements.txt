@@ -96,6 +96,7 @@ parso @ file:///croot/parso_1733963305961/work
 pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
 pillow==11.1.0
 platformdirs==4.2.2
+plotly==5.24.1
 pluggy @ file:///work/perseverance-python-buildout/croot/pluggy_1698805497733/work
 plumbum==1.9.0
 ply==3.11
@@ -108,6 +109,7 @@ pyasn1==0.6.1
 pyasn1_modules==0.4.1
 pycosat @ file:///croot/pycosat_1714510623388/work
 pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pydataset==0.2.0
 Pygments @ file:///work/perseverance-python-buildout/croot/pygments_1698846270603/work
 pymongo==4.10.1
 pyparsing==3.2.1

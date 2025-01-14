@@ -17,20 +17,17 @@ project:
     - title: Getting Started with VS Code and Python
       children:
         - file: class_materials.ipynb
-        - file: daytwostuff.md    
+        - file: 04_ML_Concepts_I_Foundations/Lab_Overview.md    
     - title: What is Machine Learning + Data Science Lifecycle
       children:
         - file: whatisml.ipynb
         - file: dslifecycle.ipynb
         - file: Lab_Overview.md
-    - title: Part II Data Preparation and Problem Exploration
+    - title: Data Preparation and Problem Exploration
       children:
         - file: Part_II/02_Lecture_Python.ipynb 
         - file: Part_II/Class_II_Python.ipynb
-    - title: Part III Solution {Model} Development
-      children:
-        - file: 
-        - file:    
+    - title: Part III Solution {Model} Development   
 site:
   template: book-theme
   options:

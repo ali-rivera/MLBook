@@ -1,4 +1,4 @@
-# Lab Overview 
+# DS Lifecycle Phase I Case Study
 
 Key Points to Cover
 * Developing DS questions
@@ -21,7 +21,7 @@ Work through the following Data to Concept and Learning:
 
 Take 20 to 30 minutes to gather your answers then we will discuss. I do want you to submit a written summary of the results so it might be a good idea to assign a note taker.  
 
-**Case Study Overview:** 
+**Case Study:** 
 
 A non-profit organization is undertaking an ambitious project to develop a sophisticated recommender engine tailored to the needs of K-12 school districts. The engine's primary purpose is to guide districts in making informed investments in Mathematics software, helping to address a widespread issue: billions of dollars are wasted annually in the U.S. education system on software that fails to meet the unique needs, skills, and contexts of individual schools within districts.
 
