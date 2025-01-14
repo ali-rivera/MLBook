@@ -11,7 +11,6 @@ Today we are going to work through getting all our environments setup and do som
 3. Find a extension that will allow you to see the data in a data viewer
 4. Load the extension and view the data
 
-
 ### Package managing
 1. Install plotly in the terminal
 2. Note the version
