@@ -95,7 +95,7 @@ On any given week, the course will require reviewing short video lectures and co
     Canvas - Submission of assignments and class-wide communications
     Discord - Low latency comms for groups and class.
 
-[**Discord Invite Click..coming soon**](tbd) - Use this for team communications, quick updates
+[**Discord Invite Click**](https://discord.gg/eRc6FkEj) - Use this for team communications, quick updates
 and helpful tips throughout the semester. It is a nice way to build community. :) 
 
 [**Overview for Install Miniconda and VS Code**](https://medium.com/the-researchers-guide/how-to-set-up-python-and-visual-studio-code-ide-for-data-science-161c61f76fe3)
