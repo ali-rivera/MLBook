@@ -29,8 +29,8 @@ project:
         - file: Part_II/Class_II_Python.ipynb
     - title:  Data Preparation and ML Pipeline  
       children: 
-        - file: 04_Data_Prep_Pip/ml_bootcamp.ipynb
-        - file: 04_Data_Prep_Pip/ML_Bootcamp_Lab.md
+        - file: 04_Data_Prep_Pipe/ml_bootcamp.ipynb
+        - file: 04_Data_Prep_Pipe/ML_Bootcamp_Lab.md
     - title:  Linear Regression for Predication    
 site:
   template: book-theme
