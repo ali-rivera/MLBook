@@ -114,6 +114,7 @@ The materials below are essentially a starter Machine Learning Library. I will u
 * F. [**Python Style Guide**](https://peps.python.org/pep-0008/)
 * G. [**Machine Learning Crash Course**](https://developers.google.com/machine-learning/crash-course/prereqs-and-prework)
 * H. [**Jen Huck!..a human resource**](https://guides.lib.virginia.edu/datascience) Jen is the Data Science Librarian and a amazing resource for the class!
+* I. [**Python Data Science Handbook**](https://guides.lib.virginia.edu/az/databases?q=oreilly) - Free in UVA O'REILLy Database
 
 
 
@@ -124,12 +125,12 @@ The materials below are essentially a starter Machine Learning Library. I will u
 | Week 	| Theme 	| Topics 	| Lab 	| Reading/Repo (Prior to Class) 	|
 |:---:	|:---:	|:---:	|:---:	|:---:	|
 | Week 1 	| What is this “Machine Learning" you speak of? + Experimental Thinking 	|  Synchronous: Short Lab  	| | |
-| Week 2 |  Getting back up to “coding speed” 	| 'Dataframing' with pandas functions 	| [- Group Case Study - Questions + PsuedoCode + Code + Functions  = High Quality Data Science](02_R_function_basics/02_Lecture_Python.ipynb) | D. Chpts 2 and 3 |
-| Week 3 | Introduction to ML Concepts I	|Language of ML	| [Case Studies](https://github.com/UVADS/DS-3001/tree/main/04_ML_Concepts_I_Foundations)|C. Chpt 1 |
-| Week 4  | Introduction to ML Concepts II | Data Preparation 	|ML Concepts|Reading TBD  |
-| Week 5  | Introduction to ML Concepts II | Data Preparation: <br> Linear Regression | Repo |Reading TBD | 
-| Week 6  | Introduction to ML Concepts III	| Machine Learning Process: <br> Linear Regression| |Reading TBD|
-| Week 7  | Introduction to ML Concepts IV	| kNN + Evaluation	| [Evaluation Lab](https://github.com/UVADS/DS-3001/tree/main/07_ML_Eval_Metrics) | All of B. and G.- Chapter 11 	|
+| Week 2 |  What is ML + Data Science Lifecycle 	| Language of ML + Analytical Plan	| [- Group Case Study ](https://novavolunteer.github.io/MLBook/lab-overview) | A. What is ML + Data Science Lifecycle  |
+| Week 3 | Getting back up to "coding speed"|Language of ML	| [Pandas Practice Lab](https://novavolunteer.github.io/MLBook/class-ii-python)|C. Chpt 1 |
+| Week 4  | Introduction to ML Concepts I | Data Preparation 	|ML Concepts|C. Chapt 4  |
+| Week 5  | Introduction to ML Concepts II | Data Preparation: <br> Linear Regression | Repo |C. Chpt. 9 | 
+| Week 6  | Introduction to ML Concepts III	| Machine Learning Process: <br> kNN| |C. pages 98-103|
+| Week 7  | Introduction to ML Concepts IV	| kNN + Evaluation	| [Evaluation Lab](https://github.com/UVADS/DS-3001/tree/main/07_ML_Eval_Metrics) | All of B. and C. Chpt. 6|
 | Week 8  | Supervised Classification |  Logistic Regression |	|   	|
 | Week 9  | Sampling Methods and How Bootstrap + Cross-Validation solves all the problems| | |
 | Week 10  | Nature's Perfect ML analogy: Trees Part I	|  Classification: <br> Decisions Trees + Calibration 	| [Decision Trees](https://github.com/UVADS/DS-3001/tree/main/08_DT_Class)	| TBD and G. Chapter 14.1-14.3 |

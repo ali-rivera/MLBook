@@ -22,12 +22,16 @@ project:
       children:
         - file: whatisml.ipynb
         - file: dslifecycle.ipynb
-        - file: 04_ML_Concepts_I_Foundations/Lab_Overview.md
-    - title: Data Preparation and Problem Exploration
+        - file: 03_ML_Concepts_I_Foundations/Lab_Overview.md
+    - title: Getting Back Up to Coding Speed
       children:
         - file: Part_II/02_Lecture_Python.ipynb 
         - file: Part_II/Class_II_Python.ipynb
-    - title: Part III Solution {Model} Development   
+    - title:  Data Preparation and ML Pipeline  
+      children: 
+        - file: 04_Data_Prep_Pip/ml_bootcamp.ipynb
+        - file: 04_Data_Prep_Pip/ML_Bootcamp_Lab.md
+    - title:  Linear Regression for Predication    
 site:
   template: book-theme
   options:
