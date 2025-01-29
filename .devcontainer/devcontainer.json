@@ -32,7 +32,7 @@
 		}
 	},
 
-	 "postCreateCommand": "git config --global user.name 'NovaVolunteer' && git config --global user.email 'bwright.wright6@gmail.com'",
+	 "postCreateCommand": "git config --global user.name 'ali-rivera' && git config --global user.email 'wat6sv@virginia.edu'",
 	 "postCreateCommand": "conda env update -n base --file environment.yaml"
 
 }
