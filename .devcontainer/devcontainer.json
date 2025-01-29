@@ -32,10 +32,9 @@
 		}
 	},
 
-	 "postCreateCommand": "git config --global user.name 'ali-rivera' && git config --global user.email 'wat6sv@virginia.edu' && conda env update -n base --file environment.yaml",
-	 "remoteEnv": {
-        "GITHUB_TOKEN": "${localEnv:GITHUB_TOKEN}"}
-
+	"postCreateCommand": "git config --global user.name 'ali-rivera' && git config --global user.email 'wat6sv@virginia.edu' && conda env update -n base --file environment.yaml && echo 'https://${GITHUB_TOKEN}:x-oauth-basic@github.com' > ~/.git-credentials && git config --global credential.helper store",
+    "remoteEnv": {
+        "GITHUB_TOKEN": "${localEnv:GITHUB_TOKEN}"
 }
 
 
