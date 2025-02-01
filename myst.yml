@@ -30,6 +30,7 @@ project:
     - title:  Data Preparation and ML Pipeline  
       children: 
         - file: 04_Data_Prep_Pipe/ml_bootcamp.ipynb
+        - file: 04_Data_Prep_Pipe/ch4.ipynb
         - file: 04_Data_Prep_Pipe/ML_Bootcamp_Lab.md
     - title:  Linear Regression for Predication    
 site:
