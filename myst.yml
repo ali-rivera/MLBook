@@ -32,7 +32,13 @@ project:
         - file: 04_Data_Prep_Pipe/ml_bootcamp.ipynb
         - file: 04_Data_Prep_Pipe/ch4.ipynb
         - file: 04_Data_Prep_Pipe/ML_Bootcamp_Lab.md
-    - title:  Linear Regression for Predication    
+    - title:  Linear Regression for Predication
+      children: 
+        - file: 05_linear_regression/types_reg_eval.ipynb
+        - file: 05_linear_regression/linear_reg_overview.ipynb
+        - file: 05_linear_regression/multi-features.ipynb
+        - file: 05_linear_regression/ols.ipynb
+        - file: 05_linear_regression/polynomial.ipynb    
 site:
   template: book-theme
   options:
